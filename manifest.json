@@ -1,0 +1,8 @@
+{
+  "short_name": "EXOWEB Website",
+  "name": "Connor Easterbrook's personal website.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
