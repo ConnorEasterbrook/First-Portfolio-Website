@@ -1,6 +1,8 @@
 # First Portfolio Website
 This is my first portfolio website built from scratch using ReactJS. This project was my initial step into front-end development and it taught me a lot of things.
 
+This website is deployed through Cloudflare - [CLICK ME](https://first-portfolio-website.pages.dev/)
+
 ## Technologies
 List of technologies or frameworks used in the project.
 - JavaScript
